@@ -8,15 +8,16 @@ class BankAccount
   end
 
   def deposit(amount)
+
     ## Something else goes here
+
+
     @balance = @balance + amount
   end
 
   def withdraw(amount)
-
   end
 
   def verify?(id, pin)
-
   end
 end
