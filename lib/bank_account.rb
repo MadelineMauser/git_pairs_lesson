@@ -8,7 +8,10 @@ class BankAccount
   end
 
   def deposit(amount)
-    #####this is intentional to error
+
+    ## Something else goes here
+
+
     @balance = @balance + amount
   end
 
